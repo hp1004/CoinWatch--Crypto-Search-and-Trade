@@ -7,7 +7,7 @@
 This platform is seamlessly linked to the Coingecko API, a widely trusted source for cryptocurrency data. Coingecko boasts an extensive database encompassing thousands of cryptocurrencies, including their present pricing, historical trends, trading volumes, market capitalizations, and other pivotal metrics. Leveraging this API, CoinWatch furnishes users with the most recent cryptocurrency prices and pertinent market insights in real-time.
 </p>
 
-👉 Live Demo: <a href='https://coinwatch-crypto.netlify.app/'>Coindom Demo</a>
+👉 Live Demo: <a href='https://coinwatch-crypto.netlify.app/'>CoinWatch Demo</a>
 
 <h3>Build with:</h3>
 
