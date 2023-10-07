@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1245cf84.css",
+    "main.js": "/static/js/main.8434e41f.js",
+    "static/media/choose-main.png": "/static/media/choose-main.39852b7511b28d44406f.png",
+    "static/media/bitcoin.png": "/static/media/bitcoin.e146d46fb598ae0d8f43.png",
+    "static/media/ethereum.png": "/static/media/ethereum.c6cffe78f0c6abc85da9.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.e33c036e05f949cf81cb.png",
+    "index.html": "/index.html",
+    "main.1245cf84.css.map": "/static/css/main.1245cf84.css.map",
+    "main.8434e41f.js.map": "/static/js/main.8434e41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1245cf84.css",
+    "static/js/main.8434e41f.js"
+  ]
+}
