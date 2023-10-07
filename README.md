@@ -2,12 +2,12 @@
 
 <h2>About the project</h2>
 
-<p><b>Coindom</b> is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies. <br/>
+<p><b>CoinWatch</b>  is a dynamic website that empowers users to access real-time information on a wide range of cryptocurrencies. Engineered to deliver precise and current data, it offers users insights into cryptocurrency prices, market capitalization, trading volume, and essential metrics. <br/>
 
-The website is connected to the Coingecko API, which is a popular source of data for cryptocurrency information. Coingecko provides data on thousands of cryptocurrencies, including their current price, historical price data, trading volume, market cap, and other important metrics. By using this API, the website can provide users with real-time information about the latest cryptocurrency prices and market trends.
+This platform is seamlessly linked to the Coingecko API, a widely trusted source for cryptocurrency data. Coingecko boasts an extensive database encompassing thousands of cryptocurrencies, including their present pricing, historical trends, trading volumes, market capitalizations, and other pivotal metrics. Leveraging this API, CoinWatch furnishes users with the most recent cryptocurrency prices and pertinent market insights in real-time.
 </p>
 
-👉 Live Demo: <a href='https://coindom-crypto-search.vercel.app/'>Coindom Demo</a>
+👉 Live Demo: <a href='https://coinwatch-crypto.netlify.app/'>Coindom Demo</a>
 
 <h3>Build with:</h3>
 
@@ -22,7 +22,7 @@ The website is connected to the Coingecko API, which is a popular source of data
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/220608661-496fee0b-740a-476f-afa5-be9889c3c798.png'/>
+<img src='src/images/Home page.png'/>
 
 </div>
 
@@ -31,5 +31,5 @@ The website is connected to the Coingecko API, which is a popular source of data
 <h3 align='center'>Coin Page 🪙</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/220609015-e64cb000-b8d2-41ce-8a9a-e610d2f1ae5b.png'/>
+<img src='src/images/Coin Details.png'/>
 </div>
